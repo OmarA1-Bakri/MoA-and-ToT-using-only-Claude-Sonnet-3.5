@@ -1,6 +1,6 @@
 # AI Assistant with Mixture of Agents and Tree of Thought
 
-This project implements an AI assistant using a combination of the Mixture of Agents (MoA) approach and the Tree of Thought (ToT) algorithm. It uses the Claude API from Anthropic to generate responses and integrates with the Tavily API for internet search capabilities. Its rough around the edges, does not use an agentic framework and was put topgether by myself and the incredible Claude-3.5 Sonnet Model. Welcome feedback, suggestions and commits. This is my first public repository... be gentle ;)
+This project implements an AI assistant using a combination of the Mixture of Agents (MoA) approach and the Tree of Thought (ToT) algorithm. It uses the Claude API from Anthropic to generate responses and integrates with the Tavily API for internet search capabilities. Its rough around the edges, does not use an agentic framework such as crewAI and was put topgether by myself and the incredible Claude-3.5 Sonnet Model. Welcome feedback, suggestions and commits. This is my first public repository... be gentle ;)
 
 ## Table of Contents
 1. [Features](#features)
