@@ -115,8 +115,7 @@ In this diagram:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-assistant-moa-tot.git
-   cd ai-assistant-moa-tot
+   git clone this repository
    ```
 
 2. Install the required packages:
