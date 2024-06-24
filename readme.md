@@ -120,7 +120,7 @@ In this diagram:
 
 2. Install the required packages:
    ```
-   pip install anthropic streamlit tenacity ratelimit tavily python-dotenv
+   pip install anthropic streamlit tenacity ratelimit tavily-python dotenv
    ```
 
 3. Set up your API keys in a `.env` file:
